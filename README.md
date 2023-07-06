@@ -2,7 +2,7 @@
 
 Welcome to the repository for the Remote Controlled All Terrain Robot! This project aims to create a versatile robot that can traverse various terrains and be controlled remotely. This README will provide an overview of the project and guide you on how to set up and use the robot.
 
-![Robot](robot_image.jpg)
+![Robot]("C:\Users\wisse\Downloads\324694311_896885551440020_2031864328461433745_n.png")
 
 ## Table of Contents
 - [Features](#features)
