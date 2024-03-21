@@ -17,7 +17,6 @@ Welcome to the repository for the Remote Controlled All Terrain Robot! This proj
 ## Features
 - All-terrain capabilities: The robot is designed to handle various types of terrains, including rough surfaces, gravel, and uneven paths.
 - Remote control: It can be operated remotely using a controller or a computer.
-- Live video streaming: The robot is equipped with a camera that provides a live video feed to the operator.
 - Customizable: The code and hardware can be customized to add additional features and capabilities to the robot.
 
 ## Hardware Requirements
